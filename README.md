@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [vocalPDF](https://github.com/Vardhman2712/vocalPDF)
 
-- 💬 Ask me about **Android, Web-APP, IOT**
+- 💬 Ask me about **Android, Web-APP, SaaS, IOT**
 
 - 📫 How to reach me **vardhmanjain525@gmail.com**
 
